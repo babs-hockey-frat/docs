@@ -33,14 +33,7 @@ Then click **Authorize**.
 
 ![Discord authorization screen for Babs Hockey Bot](images/4-authorize.png)
 
-What you're allowing:
-
-| Permission | Why |
-|---|---|
-| Access your username, avatar, and banner | So your Discord account can be matched to your player |
-| Join servers for you | So you're added to the Babs server automatically, with no invite link needed |
-
-After you authorize, Discord sends you back to `babs-flask.fly.dev`. That's the babshockey.com backend, so this redirect is expected.
+This lets us match your Discord account to your player and add you to the Babs server, so you don't need an invite link.
 
 ## 5. Confirm it worked
 
